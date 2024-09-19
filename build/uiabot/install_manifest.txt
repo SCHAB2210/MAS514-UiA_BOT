@@ -11,6 +11,7 @@
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/UiAFullWafflePlate.STL
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/lidar.xacro
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/robot_core.xacro
+/home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/inertial_macros.xacro
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/camera.xacro
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/depth_camera.xacro
 /home/devtex/uiabot_ws/src/uiabot/install/uiabot/share/uiabot/description/MotorBracket.STL
